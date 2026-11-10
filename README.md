@@ -1,5 +1,12 @@
 # java-bank
 
+## ДЗ 8. Валидация
+
+```sh
+cd validation
+mvn test
+```
+
 ## ДЗ 7. Коллекции
 
 Тесты:
