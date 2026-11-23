@@ -1,5 +1,12 @@
 # java-bank
 
+## ДЗ 10. Time API
+
+```sh
+cd time-api
+mvn test
+```
+
 ## ДЗ 8. Валидация
 
 ```sh
